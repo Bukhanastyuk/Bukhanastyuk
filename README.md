@@ -13,7 +13,7 @@ Bachelor's Degree in Finance | Russian University of Transport | 2013 🎓
 
 ### Check out my projects:
 - [Data_Analyst_Yandex.Practicum](https://github.com/Bukhanastyuk/Data_Analyst_Yandex.Practicum.git) - Final projects from Yandex.Practicum cource
-- [ML_Streamlit]() - This is what i'm currently working on
+- [ML_Streamlit](https://github.com/Bukhanastyuk/ML_Streamlit.git) - This is what i'm currently working on
 
 ***
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
