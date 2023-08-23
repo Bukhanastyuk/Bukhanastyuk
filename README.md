@@ -9,7 +9,7 @@ Diploma in Data Analysis| Yandex.Practicum | 2023 📜
 
 Diploma in Data Analysis | TGU | 2022 📜
 
-Bachelor's Degree in Finance | Russian University of Transport | 2013 🎓
+Specialist Degree in Finance | Russian University of Transport | 2013 🎓
 
 ### Check out my projects:
 - [Data_Analyst_Yandex.Practicum](https://github.com/Bukhanastyuk/Data_Analyst_Yandex.Practicum.git) - Final projects from Yandex.Practicum cource
