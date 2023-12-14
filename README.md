@@ -1,7 +1,7 @@
 ### Hi there! Welcome to my GitHub Profile!
 My name is Ekaterina but you can also call me Kate.
 
-I'm  Data Enthusiast with a Finance Background, driven by curiosity and a hunger to expand my skill set. While my background is in finance, I'm now dedicated to growing as a well-rounded data analyst and machine learning practitioner.
+I'm  Data Enthusiast with a Finance Background, driven by curiosity and a hunger to expand my skill set. While my background is in finance, I'm now dedicated to growing as a well-rounded data analyst and data engineer.
 
 👩‍🎓 Education & Retraining:
 
