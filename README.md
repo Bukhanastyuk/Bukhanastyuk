@@ -14,6 +14,9 @@ Specialist Degree in Finance | Russian University of Transport | 2013 🎓
 ### Check out my projects:
 - [Data_Analyst_Yandex.Practicum](https://github.com/Bukhanastyuk/Data_Analyst_Yandex.Practicum.git) - Final projects from Yandex.Practicum cource
 
+### Test tasks:
+- [Case_lab_SAP_BI](https://github.com/Bukhanastyuk/Case_lab_SAP_BI.git)
+  
 ***
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
@@ -25,7 +28,6 @@ Specialist Degree in Finance | Russian University of Transport | 2013 🎓
 [![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20In-Jupyter%20Notebook-orange?logo=Jupyter)](your-notebook-link.ipynb)
 [![Tableau](https://img.shields.io/badge/Tableau-Visualizations-blue?logo=Tableau)](your-tableau-profile-link)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20In%20Colab-orange?logo=Google-Colab)](your-colab-notebook-link.ipynb)
-
 
 If you have any questions or offers, feel free to message me on [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/bukhanastyuk).
 
