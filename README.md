@@ -16,6 +16,7 @@ Specialist Degree in Finance | Russian University of Transport | 2013 🎓
 
 ### Test tasks:
 - [Case_lab_SAP_BI](https://github.com/Bukhanastyuk/Case_lab_SAP_BI.git)
+- [M.Tex_SQL_Python_tests](https://github.com/Bukhanastyuk/-.-_test.git)
   
 ***
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
